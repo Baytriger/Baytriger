@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Baytriger
+- 👋 Hi, I’m @Mohammed-Moshood
 - 👀 I’m interested in ML/AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects in connection to my field
