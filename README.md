@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Mohammed-Moshood
 - 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects in connection to my field
-- 📫 How to reach me romanepire2@gmail.com
+- 📫 How to reach me: romanepire2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
