@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammed-Moshood
-- 👀 I’m interested in ML/AI
-- 📫 How to reach me: romanepire2@gmail.com
+- 👀 I’m interested in data
+- 📫 How to reach me: mohammedmoshood100@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
